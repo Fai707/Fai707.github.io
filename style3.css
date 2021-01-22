@@ -1,0 +1,18 @@
+
+#text3{
+    font-size: 16px;
+    box-shadow: 0 0 10px #5e5ebc;
+    text-transform: uppercase;
+    animation: animate 0.9s ease-in-out infinite alternate;
+}
+
+
+    @keyframes animate{
+        from{
+            text-shadow: 0 0 5px #5e5ebc;
+        }
+        to{
+            text-shadow: 0 0 20px #5e5ebc,
+                        0 0 10px #5e5ebc;
+        }
+    }
