@@ -1,0 +1,18 @@
+#text{
+    color: #5e5ebc;
+    font-size: 48px;
+    text-transform: uppercase;
+    animation: animate 1s ease-in-out infinite alternate;
+}
+
+
+
+@keyframes animate{
+    from{
+        text-shadow: 0 0 10px #5e5ebc;
+    }
+    to{
+        text-shadow: 0 0 40px #5e5ebc,
+                    0 0 10px #5e5ebc;
+    }
+}
