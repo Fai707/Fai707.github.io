@@ -1,6 +1,7 @@
 #text{
     color: #5e5ebc;
     font-size: 48px;
+    font-family: 'Changa', sans-serif;
     text-transform: uppercase;
     animation: animate 1s ease-in-out infinite alternate;
 }
