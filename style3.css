@@ -3,7 +3,7 @@
     font-family: 'Quicksand', sans-serif;
     box-shadow: 0 0 10px #5e5ebc;
     text-transform: uppercase;
-    animation: animate 0.9s ease-in-out infinite alternate;
+    animation: animate 0.1s ease-in-out infinite alternate;
 }
 
 
