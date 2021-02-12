@@ -1,7 +1,7 @@
 #textmy{
     color: #5e5ebc;
     font-size: 48px;
-    font-family: 'Changa', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     animation: animate 1s ease-in-out infinite alternate;
 }
@@ -10,10 +10,10 @@
 
 @keyframes animate{
     from{
-        text-shadow: 0 0 10px #5e5ebc;
+        text-shadow: 0 0 5px #5e5ebc;
     }
     to{
-        text-shadow: 0 0 90px #5e5ebc,
-                    0 0 10px #5e5ebc;
+        text-shadow: 0 0 10px #5e5ebc,
+                    0 0 5px #5e5ebc;
     }
 }
