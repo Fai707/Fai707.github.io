@@ -2,6 +2,7 @@
     color: #5e5ebc;
     background-color: #27274C;
     font-size: 48px;
+    margin-bottom: 75px;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     animation: animate 1s ease-in-out infinite alternate;
